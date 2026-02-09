@@ -21,3 +21,7 @@
 11) Data integrity checks preventing duplicate enrollments and unauthorized edits
 12) Role-restricted access ensuring users can view and modify only authorized data
 13) Comprehensive functional, edge-case, security, and performance testing coverage
+
+## Contributors
+- [Mohit Gupta](https://github.com/Mohit14032007)
+- [Mrityunjai Poddar](https://github.com/MrityunjaiPoddar)
