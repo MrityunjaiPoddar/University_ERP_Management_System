@@ -5,9 +5,12 @@
 4) Applied core OOP principles and implemented secure authentication with password hashing and account lockout.
 5) Added advanced features like Backup/Restore, Import/Export, and role-based access (Admin, Student, Instructor) with maintenance mode controls.
 
-#For detailed setup instructions, database initialization steps, and complete login credentials, please refer to the README_ERP.pdf documentation or the attached demo video, which demonstrate the full installation, configuration, and execution workflow of the ERP Management System. The documentation also includes database schema details, system architecture, and example user credentials for testing purposes. 
+##How to Run
 
-#Key Features
+- For detailed setup instructions, database initialization steps, and complete login credentials, please refer to the README_ERP.pdf documentation or the attached demo video, which demonstrate the full installation, configuration, and execution workflow of the ERP Management System. The documentation also includes database schema details, system architecture, and example user credentials for testing purposes. 
+
+##Key Features
+
 01) Role-based authentication system (Admin, Instructor, Student)
 02) Secure login with password hashing and account lockout after failed attempts
 03) Automated database setup and SQL seeding using setup utility
