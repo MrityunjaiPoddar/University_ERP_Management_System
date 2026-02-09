@@ -11,19 +11,19 @@
 
 ## Key Features
 
-1. Role-based authentication system (Admin, Instructor, Student)
-2. Secure login with password hashing and account lockout after failed attempts
-3. Automated database setup and SQL seeding using setup utility
-4. Course catalog browsing and section-based enrollment system
-5. Student course registration, drop functionality, timetable, and grade viewing
-6. Instructor dashboard for managing sections, assigning marks, grading slabs, and statistics
-7. Admin panel for managing users, courses, sections, and system settings
-8. ERP maintenance mode that temporarily disables enrollment and grading actions
-9. CSV/PDF transcript export and grade export functionality
-10. Backup and restore functionality for system data
-11. Data integrity checks preventing duplicate enrollments and unauthorized edits
-12. Role-restricted access ensuring users can view and modify only authorized data
-13. Comprehensive functional, edge-case, security, and performance testing coverage
+- Role-based authentication system (Admin, Instructor, Student)
+- Secure login with password hashing and account lockout after failed attempts
+- Automated database setup and SQL seeding using setup utility
+- Course catalog browsing and section-based enrollment system
+- Student course registration, drop functionality, timetable, and grade viewing
+- Instructor dashboard for managing sections, assigning marks, grading slabs, and statistics
+- Admin panel for managing users, courses, sections, and system settings
+- ERP maintenance mode that temporarily disables enrollment and grading actions
+- CSV/PDF transcript export and grade export functionality
+- Backup and restore functionality for system data
+- Data integrity checks preventing duplicate enrollments and unauthorized edits
+- Role-restricted access ensuring users can view and modify only authorized data
+- Comprehensive functional, edge-case, security, and performance testing coverage
 
 ## Contributors
 - [Mohit Gupta](https://github.com/Mohit14032007)
